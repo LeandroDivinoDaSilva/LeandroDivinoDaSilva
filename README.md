@@ -26,8 +26,8 @@
 <h2>Analytics: <img src="https://gifs.eco.br/wp-content/uploads/2022/10/gifs-de-graficos-0.gif" width="35px"> </h2>
 <div align="left">
    <a href="https://github.com/LeandroDivinoDaSilva">
-   <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=leandro&show_icons=true&theme=dracula" alt="LeandroDivinoDaSilva github stats"/>    
-   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandro&count_private=true&show_icons=true&theme=dracula&layout=compact&langs_count=6" alt="Leandr github stats"/>   
+   <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=LeandroDivinoDSilva&show_icons=true&theme=dracula" alt="LeandroDivinoDaSilva github stats"/>    
+   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroDivinoDSilva&count_private=true&show_icons=true&theme=dracula&layout=compact&langs_count=6" alt="Leandr github stats"/>   
 </div>
  
   ##
